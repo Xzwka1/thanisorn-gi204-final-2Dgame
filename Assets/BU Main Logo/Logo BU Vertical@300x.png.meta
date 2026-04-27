@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: a5dc666af11d78e44a81859fa10dff4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2578676199354944880
+    second: Logo BU Vertical@300x_0
+  - first:
+      213: -8303009074671171840
+    second: Logo BU Vertical@300x_1
+  - first:
+      213: -6526293770275581519
+    second: Logo BU Vertical@300x_2
+  - first:
+      213: -7462292728679546466
+    second: Logo BU Vertical@300x_3
+  - first:
+      213: -1858099775963738541
+    second: Logo BU Vertical@300x_4
+  - first:
+      213: -953636147238527029
+    second: Logo BU Vertical@300x_5
+  - first:
+      213: 8455363842629526408
+    second: Logo BU Vertical@300x_6
+  - first:
+      213: -3651666511961908166
+    second: Logo BU Vertical@300x_7
+  - first:
+      213: -8252627380913846624
+    second: Logo BU Vertical@300x_8
+  - first:
+      213: 5037001496602146100
+    second: Logo BU Vertical@300x_9
+  - first:
+      213: -5989090234131584780
+    second: Logo BU Vertical@300x_10
+  - first:
+      213: -2384916803103296004
+    second: Logo BU Vertical@300x_11
+  - first:
+      213: 5609354290140317454
+    second: Logo BU Vertical@300x_12
+  - first:
+      213: -4661682035599096507
+    second: Logo BU Vertical@300x_13
+  - first:
+      213: 5703317678945751081
+    second: Logo BU Vertical@300x_14
+  - first:
+      213: -6914956031990625609
+    second: Logo BU Vertical@300x_15
+  - first:
+      213: -4478771400388076381
+    second: Logo BU Vertical@300x_16
+  - first:
+      213: 1408776387177380869
+    second: Logo BU Vertical@300x_17
+  - first:
+      213: 493004589997748006
+    second: Logo BU Vertical@300x_18
+  - first:
+      213: -1336620419998965629
+    second: Logo BU Vertical@300x_19
+  - first:
+      213: 6189629361721989532
+    second: Logo BU Vertical@300x_20
+  - first:
+      213: 5968762823539947682
+    second: Logo BU Vertical@300x_21
+  - first:
+      213: 8366070299869404719
+    second: Logo BU Vertical@300x_22
+  - first:
+      213: -4266055027976815975
+    second: Logo BU Vertical@300x_23
+  - first:
+      213: 6057681724954430703
+    second: Logo BU Vertical@300x_24
+  - first:
+      213: -1356019419564961035
+    second: Logo BU Vertical@300x_25
+  - first:
+      213: -8088779194840268629
+    second: Logo BU Vertical@300x_26
+  - first:
+      213: -3966870820290521695
+    second: Logo BU Vertical@300x_27
+  - first:
+      213: -9059860351008706340
+    second: Logo BU Vertical@300x_28
+  - first:
+      213: 7538219237526336562
+    second: Logo BU Vertical@300x_29
+  - first:
+      213: -1289005300699779238
+    second: Logo BU Vertical@300x_30
+  - first:
+      213: 3935536671789707893
+    second: Logo BU Vertical@300x_31
+  - first:
+      213: -894539405087035182
+    second: Logo BU Vertical@300x_32
+  - first:
+      213: -8245500503170197936
+    second: Logo BU Vertical@300x_33
+  - first:
+      213: 8251415310320054533
+    second: Logo BU Vertical@300x_34
+  - first:
+      213: -184622257608063850
+    second: Logo BU Vertical@300x_35
+  - first:
+      213: -1970222212008417652
+    second: Logo BU Vertical@300x_36
+  - first:
+      213: -6095624160832022661
+    second: Logo BU Vertical@300x_37
+  - first:
+      213: 2682946336645651924
+    second: Logo BU Vertical@300x_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_0
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2356
+        width: 1627
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b1bab8a3b63cd0800000000000000
+      internalID: -2578676199354944880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_1
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1731
+        width: 256
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0074161ec39c5cc80800000000000000
+      internalID: -8303009074671171840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_2
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 1731
+        width: 304
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b111eac462fd65a0800000000000000
+      internalID: -6526293770275581519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1731
+        width: 270
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914319dc4c907890800000000000000
+      internalID: -7462292728679546466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_4
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 1725
+        width: 259
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec2703914b636e0800000000000000
+      internalID: -1858099775963738541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_5
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 1731
+        width: 283
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf10e60af004c2f0800000000000000
+      internalID: -953636147238527029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_6
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 1725
+        width: 262
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8836d9ecd9c775570800000000000000
+      internalID: 8455363842629526408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_7
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 1731
+        width: 282
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c125c97aca25dc0800000000000000
+      internalID: -3651666511961908166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_8
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1202
+        width: 271
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6c7f01f17c87d80800000000000000
+      internalID: -8252627380913846624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_9
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1207
+        width: 271
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435f41a8c2607e540800000000000000
+      internalID: 5037001496602146100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_10
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1207
+        width: 81
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f863d2e92a72eca0800000000000000
+      internalID: -5989090234131584780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_11
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1207
+        width: 302
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5fa2cadc217eed0800000000000000
+      internalID: -2384916803103296004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_12
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1207
+        width: 224
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07802bd10e68dd40800000000000000
+      internalID: 5609354290140317454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_13
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1207
+        width: 271
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545cb4423e06e4fb0800000000000000
+      internalID: -4661682035599096507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_14
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1202
+        width: 268
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92054c62631462f40800000000000000
+      internalID: 5703317678945751081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_15
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 1207
+        width: 82
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba01cb30242900a0800000000000000
+      internalID: -6914956031990625609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_16
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 1207
+        width: 264
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac90b1142538d1c0800000000000000
+      internalID: -4478771400388076381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_17
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 1207
+        width: 305
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7aadf8aafc8310800000000000000
+      internalID: 1408776387177380869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_18
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 935
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fe373001187d600800000000000000
+      internalID: 493004589997748006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_19
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 935
+        width: 125
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ad6a4fce537de0800000000000000
+      internalID: -1336620419998965629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_20
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 935
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9954c44c1bf5e550800000000000000
+      internalID: 6189629361721989532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_21
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 933
+        width: 126
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8f7a50a2e45d250800000000000000
+      internalID: 5968762823539947682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_22
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 935
+        width: 124
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e59a5cc904a1470800000000000000
+      internalID: 8366070299869404719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_23
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 935
+        width: 110
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3c29fd8debc4c0800000000000000
+      internalID: -4266055027976815975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_24
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 935
+        width: 132
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecc8421f65311450800000000000000
+      internalID: 6057681724954430703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_25
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 935
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f29c4cb5837e2de0800000000000000
+      internalID: -1356019419564961035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_26
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 935
+        width: 34
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0c9f0bd22eebf80800000000000000
+      internalID: -8088779194840268629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_27
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 935
+        width: 121
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a598be9108d2f8c0800000000000000
+      internalID: -3966870820290521695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_28
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 935
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0fa7f0309e44280800000000000000
+      internalID: -9059860351008706340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_29
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 933
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f5c315722d9860800000000000000
+      internalID: 7538219237526336562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_30
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 935
+        width: 126
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa13a22888c1ee0800000000000000
+      internalID: -1289005300699779238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_31
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 935
+        width: 33
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727c8a60c5dd9630800000000000000
+      internalID: 3935536671789707893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_32
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 935
+        width: 121
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0b23a8625f593f0800000000000000
+      internalID: -894539405087035182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_33
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 935
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0565c399af8129d80800000000000000
+      internalID: -8245500503170197936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_34
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 935
+        width: 123
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501b8d1c18ae28270800000000000000
+      internalID: 8251415310320054533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_35
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 933
+        width: 118
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69404ade807107df0800000000000000
+      internalID: -184622257608063850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_36
+      rect:
+        serializedVersion: 2
+        x: 5085
+        y: 935
+        width: 33
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8667ac365d58a4e0800000000000000
+      internalID: -1970222212008417652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_37
+      rect:
+        serializedVersion: 2
+        x: 5141
+        y: 935
+        width: 116
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7791592f1ef76ba0800000000000000
+      internalID: -6095624160832022661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo BU Vertical@300x_38
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 935
+        width: 121
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd13337a7dbb3520800000000000000
+      internalID: 2682946336645651924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logo BU Vertical@300x_0: -2578676199354944880
+      Logo BU Vertical@300x_1: -8303009074671171840
+      Logo BU Vertical@300x_10: -5989090234131584780
+      Logo BU Vertical@300x_11: -2384916803103296004
+      Logo BU Vertical@300x_12: 5609354290140317454
+      Logo BU Vertical@300x_13: -4661682035599096507
+      Logo BU Vertical@300x_14: 5703317678945751081
+      Logo BU Vertical@300x_15: -6914956031990625609
+      Logo BU Vertical@300x_16: -4478771400388076381
+      Logo BU Vertical@300x_17: 1408776387177380869
+      Logo BU Vertical@300x_18: 493004589997748006
+      Logo BU Vertical@300x_19: -1336620419998965629
+      Logo BU Vertical@300x_2: -6526293770275581519
+      Logo BU Vertical@300x_20: 6189629361721989532
+      Logo BU Vertical@300x_21: 5968762823539947682
+      Logo BU Vertical@300x_22: 8366070299869404719
+      Logo BU Vertical@300x_23: -4266055027976815975
+      Logo BU Vertical@300x_24: 6057681724954430703
+      Logo BU Vertical@300x_25: -1356019419564961035
+      Logo BU Vertical@300x_26: -8088779194840268629
+      Logo BU Vertical@300x_27: -3966870820290521695
+      Logo BU Vertical@300x_28: -9059860351008706340
+      Logo BU Vertical@300x_29: 7538219237526336562
+      Logo BU Vertical@300x_3: -7462292728679546466
+      Logo BU Vertical@300x_30: -1289005300699779238
+      Logo BU Vertical@300x_31: 3935536671789707893
+      Logo BU Vertical@300x_32: -894539405087035182
+      Logo BU Vertical@300x_33: -8245500503170197936
+      Logo BU Vertical@300x_34: 8251415310320054533
+      Logo BU Vertical@300x_35: -184622257608063850
+      Logo BU Vertical@300x_36: -1970222212008417652
+      Logo BU Vertical@300x_37: -6095624160832022661
+      Logo BU Vertical@300x_38: 2682946336645651924
+      Logo BU Vertical@300x_4: -1858099775963738541
+      Logo BU Vertical@300x_5: -953636147238527029
+      Logo BU Vertical@300x_6: 8455363842629526408
+      Logo BU Vertical@300x_7: -3651666511961908166
+      Logo BU Vertical@300x_8: -8252627380913846624
+      Logo BU Vertical@300x_9: 5037001496602146100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

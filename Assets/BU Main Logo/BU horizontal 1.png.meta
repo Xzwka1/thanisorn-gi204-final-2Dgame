@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 9bc2dc253be1f434889c674afc125ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2391024529277262053
+    second: BU horizontal 1_0
+  - first:
+      213: -3085783339422358951
+    second: BU horizontal 1_1
+  - first:
+      213: -2561579093720560110
+    second: BU horizontal 1_2
+  - first:
+      213: 5270960809230060224
+    second: BU horizontal 1_3
+  - first:
+      213: -1330219381112866769
+    second: BU horizontal 1_4
+  - first:
+      213: -2259701306687340017
+    second: BU horizontal 1_5
+  - first:
+      213: 2505006339616493391
+    second: BU horizontal 1_6
+  - first:
+      213: 8019993573280882329
+    second: BU horizontal 1_7
+  - first:
+      213: 7211239186509666871
+    second: BU horizontal 1_8
+  - first:
+      213: 5790482827449030707
+    second: BU horizontal 1_9
+  - first:
+      213: 3067784881115258551
+    second: BU horizontal 1_10
+  - first:
+      213: -8779038030270039929
+    second: BU horizontal 1_11
+  - first:
+      213: -6119480115870740867
+    second: BU horizontal 1_12
+  - first:
+      213: 7094889052841619030
+    second: BU horizontal 1_13
+  - first:
+      213: 5890115391873015207
+    second: BU horizontal 1_14
+  - first:
+      213: 5548099573103559823
+    second: BU horizontal 1_15
+  - first:
+      213: -6063841421988489427
+    second: BU horizontal 1_16
+  - first:
+      213: -4660192959135329908
+    second: BU horizontal 1_17
+  - first:
+      213: -7239487210527175165
+    second: BU horizontal 1_18
+  - first:
+      213: 5934488969203212513
+    second: BU horizontal 1_19
+  - first:
+      213: -8480263390795118621
+    second: BU horizontal 1_20
+  - first:
+      213: 2889887552624254702
+    second: BU horizontal 1_21
+  - first:
+      213: 3705305740659350905
+    second: BU horizontal 1_22
+  - first:
+      213: 7153248294083341870
+    second: BU horizontal 1_23
+  - first:
+      213: 3517075463463060345
+    second: BU horizontal 1_24
+  - first:
+      213: 3515961740625131151
+    second: BU horizontal 1_25
+  - first:
+      213: 9112524710766349142
+    second: BU horizontal 1_26
+  - first:
+      213: 3959581199634499671
+    second: BU horizontal 1_27
+  - first:
+      213: 6930563866123154713
+    second: BU horizontal 1_28
+  - first:
+      213: -4754444282294375823
+    second: BU horizontal 1_29
+  - first:
+      213: -4355466402770870517
+    second: BU horizontal 1_30
+  - first:
+      213: 8278952203734669775
+    second: BU horizontal 1_31
+  - first:
+      213: 1845513339626623291
+    second: BU horizontal 1_32
+  - first:
+      213: -7339271577637100186
+    second: BU horizontal 1_33
+  - first:
+      213: -160119929441736569
+    second: BU horizontal 1_34
+  - first:
+      213: -8856236035307144794
+    second: BU horizontal 1_35
+  - first:
+      213: 4508389963345772404
+    second: BU horizontal 1_36
+  - first:
+      213: -4766388582947783584
+    second: BU horizontal 1_37
+  - first:
+      213: -218240090689220542
+    second: BU horizontal 1_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BU horizontal 1_0
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1031
+        width: 493
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ee2bdbdf51ded0800000000000000
+      internalID: -2391024529277262053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_1
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1271
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95269e7e6681d25d0800000000000000
+      internalID: -3085783339422358951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_2
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1271
+        width: 94
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e08b6d261737cd0800000000000000
+      internalID: -2561579093720560110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_3
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1271
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cac923ede6362940800000000000000
+      internalID: 5270960809230060224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_4
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1269
+        width: 80
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f287d6b458c1a8de0800000000000000
+      internalID: -1330219381112866769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_5
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1271
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f024a6c42ade3a0e0800000000000000
+      internalID: -2259701306687340017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_6
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1269
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f41f86ef193c220800000000000000
+      internalID: 2505006339616493391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_7
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1271
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e9254c9adbc4f60800000000000000
+      internalID: 8019993573280882329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_8
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1112
+        width: 84
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a194655d7731460800000000000000
+      internalID: 7211239186509666871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_9
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1113
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3385918c37deb5050800000000000000
+      internalID: 5790482827449030707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_10
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1113
+        width: 27
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be50367816f29a20800000000000000
+      internalID: 3067784881115258551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_11
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1113
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788fb10cc679a2680800000000000000
+      internalID: -8779038030270039929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_12
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1113
+        width: 69
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e457bc14d331ba0800000000000000
+      internalID: -6119480115870740867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_13
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1113
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eae63d00c167260800000000000000
+      internalID: 7094889052841619030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_14
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1112
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7add6a2edb4edb150800000000000000
+      internalID: 5890115391873015207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_15
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1113
+        width: 27
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f848559aa2fcefc40800000000000000
+      internalID: 5548099573103559823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_16
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1113
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d279314ba58e8dba0800000000000000
+      internalID: -6063841421988489427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_17
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1113
+        width: 94
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8156f5c13ba35fb0800000000000000
+      internalID: -4660192959135329908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_18
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1031
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4b8c0dbc288b90800000000000000
+      internalID: -7239487210527175165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_19
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1031
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e4d4764a8b5250800000000000000
+      internalID: 5934488969203212513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_20
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1031
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e748ed506d005a80800000000000000
+      internalID: -8480263390795118621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_21
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1031
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeddf6fa61fa1820800000000000000
+      internalID: 2889887552624254702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_22
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1031
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d573880f3eb6330800000000000000
+      internalID: 3705305740659350905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_23
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1031
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ea1078c61754360800000000000000
+      internalID: 7153248294083341870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_24
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1031
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97345ffef792fc030800000000000000
+      internalID: 3517075463463060345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_25
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1031
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8633d123943bc030800000000000000
+      internalID: 3515961740625131151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_26
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1031
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b8238b1f0367e70800000000000000
+      internalID: 9112524710766349142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_27
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1031
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758878f4f1243f630800000000000000
+      internalID: 3959581199634499671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_28
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1031
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915bd65dd1f4e2060800000000000000
+      internalID: 6930563866123154713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_29
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1031
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ae4798d12d40eb0800000000000000
+      internalID: -4754444282294375823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_30
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1031
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f91b702664e83c0800000000000000
+      internalID: -4355466402770870517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_31
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1031
+        width: 13
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9da006a2fb4e270800000000000000
+      internalID: 8278952203734669775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_32
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1031
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3190bcba949c9910800000000000000
+      internalID: 1845513339626623291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_33
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1031
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665e1d0a26ba52a90800000000000000
+      internalID: -7339271577637100186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_34
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1031
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882a24c5c327cdf0800000000000000
+      internalID: -160119929441736569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_35
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1031
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9f08c8f34581580800000000000000
+      internalID: -8856236035307144794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_36
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1031
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f392209c4019e30800000000000000
+      internalID: 4508389963345772404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_37
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1031
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c7be356d26addb0800000000000000
+      internalID: -4766388582947783584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BU horizontal 1_38
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1031
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24058b63bc7a8fcf0800000000000000
+      internalID: -218240090689220542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BU horizontal 1_0: -2391024529277262053
+      BU horizontal 1_1: -3085783339422358951
+      BU horizontal 1_10: 3067784881115258551
+      BU horizontal 1_11: -8779038030270039929
+      BU horizontal 1_12: -6119480115870740867
+      BU horizontal 1_13: 7094889052841619030
+      BU horizontal 1_14: 5890115391873015207
+      BU horizontal 1_15: 5548099573103559823
+      BU horizontal 1_16: -6063841421988489427
+      BU horizontal 1_17: -4660192959135329908
+      BU horizontal 1_18: -7239487210527175165
+      BU horizontal 1_19: 5934488969203212513
+      BU horizontal 1_2: -2561579093720560110
+      BU horizontal 1_20: -8480263390795118621
+      BU horizontal 1_21: 2889887552624254702
+      BU horizontal 1_22: 3705305740659350905
+      BU horizontal 1_23: 7153248294083341870
+      BU horizontal 1_24: 3517075463463060345
+      BU horizontal 1_25: 3515961740625131151
+      BU horizontal 1_26: 9112524710766349142
+      BU horizontal 1_27: 3959581199634499671
+      BU horizontal 1_28: 6930563866123154713
+      BU horizontal 1_29: -4754444282294375823
+      BU horizontal 1_3: 5270960809230060224
+      BU horizontal 1_30: -4355466402770870517
+      BU horizontal 1_31: 8278952203734669775
+      BU horizontal 1_32: 1845513339626623291
+      BU horizontal 1_33: -7339271577637100186
+      BU horizontal 1_34: -160119929441736569
+      BU horizontal 1_35: -8856236035307144794
+      BU horizontal 1_36: 4508389963345772404
+      BU horizontal 1_37: -4766388582947783584
+      BU horizontal 1_38: -218240090689220542
+      BU horizontal 1_4: -1330219381112866769
+      BU horizontal 1_5: -2259701306687340017
+      BU horizontal 1_6: 2505006339616493391
+      BU horizontal 1_7: 8019993573280882329
+      BU horizontal 1_8: 7211239186509666871
+      BU horizontal 1_9: 5790482827449030707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
