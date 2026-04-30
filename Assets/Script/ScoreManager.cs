@@ -1,34 +1,58 @@
 ﻿using UnityEngine;
 using TMPro;
-using UnityEngine.SceneManagement; // 🚨 สำคัญมาก: ต้องเพิ่มบรรทัดนี้เพื่อใช้คำสั่งเปลี่ยนฉาก
+using UnityEngine.SceneManagement;
 
 public class ScoreManager : MonoBehaviour
 {
     public static ScoreManager instance;
     public TextMeshProUGUI scoreText;
-    private int score = 0;
+
+    // 🌟 จุดสำคัญที่ 1: เปลี่ยนมาใช้คำว่า static เพื่อให้คะแนนอยู่รอดข้าม Scene
+    public static int totalScore = 0;
 
     [Header("การเปลี่ยนฉาก")]
-    public int targetScore = 26;        // ตั้งเป้าหมายไว้ที่ 26 แต้ม
-    public string creditSceneName = "EndCredit"; // ชื่อ Scene ที่จะเด้งไป (ต้องตั้งให้ตรงใน Unity)
+    public int targetScore = 26;        // ตั้งเป้าหมายรวมทั้งหมด
+    public string creditSceneName = "EndCredit";
 
-    void Awake() { instance = this; }
+    void Awake()
+    {
+        instance = this;
+    }
+
+    void Start()
+    {
+        // 🌟 ทันทีที่โหลด Scene ใหม่ ให้ดึงคะแนนที่สะสมไว้ออกมาโชว์ที่ UI ทันที
+        UpdateScoreUI();
+    }
 
     public void AddScore(int amount)
     {
-        score += amount;
-        if (scoreText != null) scoreText.text = "Score: " + score.ToString();
+        totalScore += amount;
+        UpdateScoreUI();
 
-        // 🌟 ตรวจสอบเงื่อนไข: ถ้าคะแนนครบตามเป้า ให้เปลี่ยนฉากทันที
-        if (score >= targetScore)
+        // ตรวจสอบเงื่อนไข: ถ้าคะแนนรวมถึงเป้าหมาย ให้เด้งไปหน้า End Credit
+        if (totalScore >= targetScore)
         {
-            Invoke("GoToCreditScene", 1f); // หน่วงเวลา 1 วินาทีก่อนเปลี่ยนฉาก (เพื่อให้เห็นคะแนนสุดท้าย)
+            Invoke("GoToCreditScene", 1f);
+        }
+    }
+
+    void UpdateScoreUI()
+    {
+        if (scoreText != null)
+        {
+            scoreText.text = "Score: " + totalScore.ToString();
         }
     }
 
     void GoToCreditScene()
     {
-        // คำสั่งโหลดฉากใหม่
         SceneManager.LoadScene(creditSceneName);
+    }
+
+    // 🌟 จุดสำคัญที่ 2: ฟังก์ชันสำหรับเคลียร์คะแนนกลับเป็น 0 ตอนเริ่มเกมใหม่
+    public void ResetScore()
+    {
+        totalScore = 0;
     }
 }
