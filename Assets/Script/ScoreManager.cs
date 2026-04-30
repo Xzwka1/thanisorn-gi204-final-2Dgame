@@ -9,7 +9,7 @@ public class ScoreManager : MonoBehaviour
     private int score = 0;
 
     [Header("การเปลี่ยนฉาก")]
-    public int targetScore = 16;        // ตั้งเป้าหมายไว้ที่ 16 แต้ม
+    public int targetScore = 26;        // ตั้งเป้าหมายไว้ที่ 26 แต้ม
     public string creditSceneName = "EndCredit"; // ชื่อ Scene ที่จะเด้งไป (ต้องตั้งให้ตรงใน Unity)
 
     void Awake() { instance = this; }
